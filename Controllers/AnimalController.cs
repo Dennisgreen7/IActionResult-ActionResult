@@ -14,7 +14,6 @@ namespace WebApplication6.Controllers
         {
             if (name == "Giraffe")
             {
-                //return AcceptedAtAction(nameof(Smile));
                 return LocalRedirect("~/api/Animal/smile");
             }
             foreach (Animal animal in this.Animals)
@@ -29,6 +28,10 @@ namespace WebApplication6.Controllers
         [Route("special/{name}")]
         public ActionResult<Animal> GetAnimalByName2(string name)
         {
+            if (name == "Giraffe")
+            {
+                return LocalRedirect("~/api/Animal/smile");
+            }
             foreach (Animal animal in this.Animals)
             {
                 if (animal.Name == name)

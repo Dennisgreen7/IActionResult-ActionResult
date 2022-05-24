@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dennis\\source\\repos\\WebApplication6\\WebApplication6.csproj": {}
+    "C:\\Dot.Net\\Api\\IActionResult + ActionResult\\WebApplication6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dennis\\source\\repos\\WebApplication6\\WebApplication6.csproj": {
+    "C:\\Dot.Net\\Api\\IActionResult + ActionResult\\WebApplication6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dennis\\source\\repos\\WebApplication6\\WebApplication6.csproj",
+        "projectUniqueName": "C:\\Dot.Net\\Api\\IActionResult + ActionResult\\WebApplication6.csproj",
         "projectName": "WebApplication6",
-        "projectPath": "C:\\Users\\Dennis\\source\\repos\\WebApplication6\\WebApplication6.csproj",
+        "projectPath": "C:\\Dot.Net\\Api\\IActionResult + ActionResult\\WebApplication6.csproj",
         "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dennis\\source\\repos\\WebApplication6\\obj\\",
+        "outputPath": "C:\\Dot.Net\\Api\\IActionResult + ActionResult\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

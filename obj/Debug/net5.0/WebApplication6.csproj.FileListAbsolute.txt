@@ -27,3 +27,32 @@ C:\Users\Dennis\source\repos\WebApplication6\obj\Debug\net5.0\WebApplication6.dl
 C:\Users\Dennis\source\repos\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
 C:\Users\Dennis\source\repos\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
 C:\Users\Dennis\source\repos\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\appsettings.Development.json
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\appsettings.json
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.exe
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.deps.json
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\ref\WebApplication6.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\WebApplication6.pdb
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.xml
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\ref\WebApplication6.dll
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.pdb
+C:\Dot.Net\Api\IActionResult + ActionResult\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
